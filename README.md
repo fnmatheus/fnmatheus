@@ -1,7 +1,6 @@
 ### Hii. I'm Matheus Nascimento
 
 - 🌱 I'm currently developing my skills
-- ⚡ I'm 18y and I started programming when I was 11
 
 ##
 
