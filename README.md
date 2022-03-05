@@ -13,7 +13,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Math-pic" height="150" style="border-radius:50px;" 
 </div>
 
 ##
