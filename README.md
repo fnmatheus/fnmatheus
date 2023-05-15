@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juniorcarvalh0/">
     <img
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+         src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505"
          target="_blank"
          />
   </a>
