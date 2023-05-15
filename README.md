@@ -2,9 +2,7 @@
 - 🌱 I'm currently developing my skills
 ##
 ### Languages and tools
-<div>
-  <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ##
 ### Contact
 <div>
