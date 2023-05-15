@@ -2,6 +2,8 @@
 
 - 🌱 I'm currently developing my skills
 ##
+### Languages and tools
+##
 ### Contact
 <div>
   <a href="https://www.linkedin.com/in/fnmatheus/">
