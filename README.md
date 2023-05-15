@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juniorcarvalh0/">
     <img
          align="center"
-         src="https://i.pinimg.com/564x/b0/28/c2/b028c2e59043116dfc0da6ec6fd26d70.jpg"
+         src="https://i.pinimg.com/564x/fe/c8/39/fec8390f28d181afed8fa64420adb108.jpg"
          target="_blank"
          />
   </a>
