@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/juniorcarvalh0/">
-    <i class="devicon-linkedin-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:juniorcarvalhodev@gmail.com">
     <img
