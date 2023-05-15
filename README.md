@@ -4,8 +4,8 @@
 
 ### Contact
 <div>
-  <a style="margin: 10px" href="https://www.linkedin.com/in/fnmatheus/">
-    <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/fnmatheus/">
+    <img style="margin: 10px" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:nasc.matheusfrancisco@gmail.com">
     <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
