@@ -1,5 +1,9 @@
 ## Hi! I'm Matheus Nascimento 👨‍💻
-- 🌱 I'm currently developing my skills
+
+I am a full stack web developer with a passion for exploring new technologies and learning new things. I enjoy creating innovative and user-friendly web solutions for various projects and challenges. I’m always eager to improve my skills and expand my knowledge in this dynamic field.
+
+<img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47gztflbku0300d6wkbf24eh9ki6e5een3zknpz1ho&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
 ##
 ### Languages and tools
 
